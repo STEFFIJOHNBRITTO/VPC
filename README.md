@@ -1,7 +1,7 @@
 ## Virtual Private Cloud (VPC)
 
-## Name: HAREESH R
-## Register Number: 212223230068
+## Name: STEFFI J
+## Register Number: 212224220107
 
 ## AIM
 To study the steps involved in setting up a private cloud using **AWS** or **Microsoft Azure** platforms and explore its core features and services.
